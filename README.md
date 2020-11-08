@@ -1,6 +1,6 @@
 # wromoapp
 
-A Wromo Merkant Shopping E-Commerce application.
+A Wromo Merkant Shopping E-Commerce application.  Photos are connected via Google's Firebase
 
 ## Getting Started
 
