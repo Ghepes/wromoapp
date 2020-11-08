@@ -1,2 +1,0 @@
-# wromoapp
-Wromo App
